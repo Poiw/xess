@@ -17,3 +17,7 @@ Please see the Developer Guide in the /doc folder for getting started informatio
 | doc | Documentation |
 | licenses | Licenses for the SDK itself and its components |
 | samples | Source code and license for samples |
+
+# Songyin's Comments
+## Build from Visual Studio
+- Use cmake commands in command lines to build the demo first(according to the README.md in xessdemo), then open it with VS.
